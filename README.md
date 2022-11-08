@@ -9,7 +9,7 @@
 bootcamp: [https://www.xpeducacao.com.br/bootcamp/profissional-aws-cloud-computing?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/profissional-aws-cloud-computing?evento=cloud_conference)
 </br></br>
 
-`Cronograma do curso:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Cronograma%20do%20nan%20-%20BTC%20Bootcamp%20Engenheiro%20De%20Dados%2022-2.png)
+`Cronograma do curso:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-10A-Bootcamp_Profissional_AWS_Cloud_Computing/blob/master/Cronograma%20do%20AWS.png)
 </br></br>
 
 
