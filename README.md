@@ -4,10 +4,6 @@
 `Certificado:` [Acesse aqui](https://github.com/Jair-pc/XP_Educacao_IGTI-2022-10A-Bootcamp_Profissional_AWS_Cloud_Computing/blob/master/AWS%20-%20Xp%20Educa%C3%A7%C3%A3o.jpeg)
 </br></br>
 
-[![](https://img.shields.io/badge/made%20by-jair-blue)](https://www.linkedin.com/in/jairengdados/)
-![GitHub repo size](https://img.shields.io/badge/-engenheiro%20de%20dados-green)
-
-
 `Duração:` 2 meses, 148 horas
 </br></br>
 bootcamp: [https://www.xpeducacao.com.br/bootcamp/profissional-aws-cloud-computing?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/profissional-aws-cloud-computing?evento=cloud_conference)
